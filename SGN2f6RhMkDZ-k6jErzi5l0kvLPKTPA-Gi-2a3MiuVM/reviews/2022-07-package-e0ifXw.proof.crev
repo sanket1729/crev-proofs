@@ -46,3 +46,27 @@ comment: |-
 k2v1LDjAFrU7QNW9H_AITYn3eTTcXzF4DDMEmVKaADctsJI30XphyrBRUkj0oxzwwitj8PrcdHITaZ_CnmipAg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-07-19T14:34:49.724945988-07:00"
+from:
+  id-type: crev
+  id: SGN2f6RhMkDZ-k6jErzi5l0kvLPKTPA-Gi-2a3MiuVM
+  url: "https://github.com/sanket1729/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: bech32
+  version: 0.8.1
+  revision: d5ad6bd1c0e6e312710b82294493b227ac62d896
+  digest: WOms1jNMUgYbMzCLMHoMOhXA7gbig26EtynM98Ypg-U
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  Simple math library for bitcoin addresses. Easy to review and small loc|-
+----- SIGN CREV PROOF -----
+hASJ96FqUnMx4qXG7XD3YyIyeQY-zLRQPCjuxdTw-Z0hvkyDk-UX3pOANP8Z2j-4iLZLWZ_XzoA0E0Hx7SX2Cg
+----- END CREV PROOF -----
+
