@@ -14,3 +14,21 @@ trust: high
 9E0rLfZE3FtOrl87_6-ss2yWoKLeU5_cgurLqhn3HrAsEPShjPJlOKTyHcs_fp_YU72MYuqtCZLWCJwi7UZFDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2022-07-19T13:53:46.623374816-07:00"
+from:
+  id-type: crev
+  id: SGN2f6RhMkDZ-k6jErzi5l0kvLPKTPA-Gi-2a3MiuVM
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: |-
+  dpc from rust-bitcoin org|-
+----- SIGN CREV PROOF -----
+mhxBrmoFs0WmjZeisTrD0tYKdVxSOBkba3DLpnour7TFpRyLTgrfqMuA1_ERBklMiPKa_O0flF3X5kygUWWfAA
+----- END CREV PROOF -----
+
