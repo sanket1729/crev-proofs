@@ -70,3 +70,27 @@ comment: |-
 hASJ96FqUnMx4qXG7XD3YyIyeQY-zLRQPCjuxdTw-Z0hvkyDk-UX3pOANP8Z2j-4iLZLWZ_XzoA0E0Hx7SX2Cg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-07-19T14:35:38.977776209-07:00"
+from:
+  id-type: crev
+  id: SGN2f6RhMkDZ-k6jErzi5l0kvLPKTPA-Gi-2a3MiuVM
+  url: "https://github.com/sanket1729/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: miniscript
+  version: 7.0.0
+  revision: 65a8ea816ee7156d7581529dd5ac9dc446c57471
+  digest: mIV2Jvl1ZHeFMuL_Q670dObu6tv24BptQmmtGSh5xek
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  Maintainer and active reviewer of every single commit of this codebase|-
+----- SIGN CREV PROOF -----
+PUD3yDQGdFdS4VSaUFtTlx_oOYTN1k95yicbxg6pdEuK3EzKgOx00fymyjzjmIeynHN1Imf0k0uv81FqSosqCg
+----- END CREV PROOF -----
+
