@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-07-19T14:04:04.900242657-07:00"
+from:
+  id-type: crev
+  id: SGN2f6RhMkDZ-k6jErzi5l0kvLPKTPA-Gi-2a3MiuVM
+  url: "https://github.com/sanket1729/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: bitcoin
+  version: 0.28.1
+  revision: 219aa5926a7f24969597b185745481e2270e5b28
+  digest: 12vUZ4T2PFXRW-7Xkk1bt_bYF8zyJD8zk_jRVJKPhtg
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  Maintainer and active reviewer of this codebase|-
+----- SIGN CREV PROOF -----
+Oxuz5UbSR-5-WsGFhXK95sTBmyhVpXwC0RF88SIBGiOlEylf4rdvQ1d2Ufsg1NimRhbC3XWo7xjjxV8LjA1sBQ
+----- END CREV PROOF -----
+
