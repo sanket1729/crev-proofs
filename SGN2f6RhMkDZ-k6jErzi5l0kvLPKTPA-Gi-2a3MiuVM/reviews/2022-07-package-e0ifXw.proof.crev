@@ -22,3 +22,27 @@ comment: |-
 Oxuz5UbSR-5-WsGFhXK95sTBmyhVpXwC0RF88SIBGiOlEylf4rdvQ1d2Ufsg1NimRhbC3XWo7xjjxV8LjA1sBQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-07-19T14:34:16.157811029-07:00"
+from:
+  id-type: crev
+  id: SGN2f6RhMkDZ-k6jErzi5l0kvLPKTPA-Gi-2a3MiuVM
+  url: "https://github.com/sanket1729/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: secp256k1
+  version: 0.23.4
+  revision: 125211db5b1c92a937d5c3839ac4d14c3535a0a4
+  digest: 98m7SjKXA-GEFtj1XTh8OHQmuyUMGh2Cwu98_yhvfmQ
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  Bindings to secp library. Very well tested across bitcoin eceosytem|-
+----- SIGN CREV PROOF -----
+k2v1LDjAFrU7QNW9H_AITYn3eTTcXzF4DDMEmVKaADctsJI30XphyrBRUkj0oxzwwitj8PrcdHITaZ_CnmipAg
+----- END CREV PROOF -----
+
